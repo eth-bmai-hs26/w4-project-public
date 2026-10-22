@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Created when running the notebooks
+deepfake_imgs/
+**/dataset/deepfake_imgs/
